@@ -1,0 +1,62 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/music_disc_11"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/music_disc_nevermeantamericanfootballzero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/music_disc_thegummybearsonggummibrone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/music_disc_barbiegirlaquatwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/music_disc_peanutbutterjellytimebuckwheatboyzthree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/music_disc_sorryforpartyrockinglmfaofour"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/music_disc_buddyhollyweezerfive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/music_disc_lingerthecranberriessix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/music_disc_escaperupertholmesseven"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/music_disc_virtualinsanitydiscauthoreight"
+    }
+  ]
+}

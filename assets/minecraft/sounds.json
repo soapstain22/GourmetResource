@@ -1,0 +1,74 @@
+{
+  "music_disc.nevermeantamericanfootballzero": {
+    "sounds": [
+      {
+        "name": "records/nevermeantamericanfootballzero",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.thegummybearsonggummibrone": {
+    "sounds": [
+      {
+        "name": "records/thegummybearsonggummibrone",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.barbiegirlaquatwo": {
+    "sounds": [
+      {
+        "name": "records/barbiegirlaquatwo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.peanutbutterjellytimebuckwheatboyzthree": {
+    "sounds": [
+      {
+        "name": "records/peanutbutterjellytimebuckwheatboyzthree",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sorryforpartyrockinglmfaofour": {
+    "sounds": [
+      {
+        "name": "records/sorryforpartyrockinglmfaofour",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.buddyhollyweezerfive": {
+    "sounds": [
+      {
+        "name": "records/buddyhollyweezerfive",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lingerthecranberriessix": {
+    "sounds": [
+      {
+        "name": "records/lingerthecranberriessix",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.escaperupertholmesseven": {
+    "sounds": [
+      {
+        "name": "records/escaperupertholmesseven",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.virtualinsanitydiscauthoreight": {
+    "sounds": [
+      {
+        "name": "records/virtualinsanitydiscauthoreight",
+        "stream": true
+      }
+    ]
+  }
+}

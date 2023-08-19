@@ -1,0 +1,62 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/disc_fragment_5"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/fragment_nevermeantamericanfootballzero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/fragment_thegummybearsonggummibrone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/fragment_barbiegirlaquatwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/fragment_peanutbutterjellytimebuckwheatboyzthree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/fragment_sorryforpartyrockinglmfaofour"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/fragment_buddyhollyweezerfive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/fragment_lingerthecranberriessix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/fragment_escaperupertholmesseven"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/fragment_virtualinsanitydiscauthoreight"
+    }
+  ]
+}
