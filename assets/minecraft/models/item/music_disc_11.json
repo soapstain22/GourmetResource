@@ -8,55 +8,103 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/music_disc_nevermeantamericanfootballzero"
+      "model": "item/music_disc_trackonezero"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "item/music_disc_thegummybearsonggummibrone"
+      "model": "item/music_disc_tracktwoone"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "item/music_disc_barbiegirlaquatwo"
+      "model": "item/music_disc_trackthreetwo"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "item/music_disc_peanutbutterjellytimebuckwheatboyzthree"
+      "model": "item/music_disc_trackfourthree"
     },
     {
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "item/music_disc_sorryforpartyrockinglmfaofour"
+      "model": "item/music_disc_trackfivefour"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "item/music_disc_buddyhollyweezerfive"
+      "model": "item/music_disc_tracksixfive"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "item/music_disc_lingerthecranberriessix"
+      "model": "item/music_disc_tracksevensix"
     },
     {
       "predicate": {
         "custom_model_data": 8
       },
-      "model": "item/music_disc_escaperupertholmesseven"
+      "model": "item/music_disc_trackeightseven"
     },
     {
       "predicate": {
         "custom_model_data": 9
       },
-      "model": "item/music_disc_virtualinsanitydiscauthoreight"
+      "model": "item/music_disc_tracknineeight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/music_disc_trackonezeronine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/music_disc_trackoneoneonezero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/music_disc_trackonetwooneone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/music_disc_trackonethreeonetwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/music_disc_trackonefouronethree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/music_disc_trackonefouronefour"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/music_disc_trackonefiveonefive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/music_disc_trackonesixonesix"
     }
   ]
 }
