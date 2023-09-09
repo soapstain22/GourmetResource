@@ -28,7 +28,6 @@ jobs:
       - name: Compile 
         run: |
           dir
-          git archive --format=zip --output
-          zip -r gourmet.zip directory -x .*
-          gh release upload latest gourmet.zip
+          git archive --format=zip --output /home/gourmet.zip
+          gh release upload latest /home/gourmet.zip
           echo ok
