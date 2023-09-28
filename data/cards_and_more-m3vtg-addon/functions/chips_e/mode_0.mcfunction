@@ -1,0 +1,2 @@
+execute unless data block ~ ~ ~ Items[{Slot:12b,tag:{m3vtga-button:1b}}] run function cards_and_more-m3vtg-addon:chips_e/mode0/selected_add
+execute unless data block ~ ~ ~ Items[{Slot:14b,tag:{m3vtga-button:1b}}] unless score @s m3vtga-mode matches 1.. run function cards_and_more-m3vtg-addon:chips_e/mode0/selected_key

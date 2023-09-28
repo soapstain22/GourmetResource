@@ -1,0 +1,1 @@
+execute as @e[type=item,tag=!m3vtg-fast-clean,nbt={Item:{tag:{m3vtg-bundle:1b}}},nbt={OnGround:1b}] at @s run function m3v-table-games:fast-clean/1

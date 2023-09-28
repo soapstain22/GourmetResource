@@ -1,0 +1,110 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/disc_fragment_5"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/fragment_trackonezero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/fragment_tracktwoone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/fragment_trackthreetwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/fragment_trackfourthree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/fragment_trackfivefour"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/fragment_tracksixfive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/fragment_tracksevensix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/fragment_trackeightseven"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/fragment_tracknineeight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/fragment_trackonezeronine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/fragment_trackoneoneonezero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/fragment_trackonetwooneone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/fragment_trackonethreeonetwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/fragment_trackonefouronethree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/fragment_trackonefouronefour"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/fragment_trackonefiveonefive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/fragment_trackonesixonesix"
+    }
+  ]
+}

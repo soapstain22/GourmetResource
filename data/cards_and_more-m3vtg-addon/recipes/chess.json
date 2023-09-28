@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#BP",
+        "#SP",
+        " L "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_dye"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        },
+        "P": {
+            "item": "minecraft:black_dye"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

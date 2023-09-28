@@ -1,0 +1,138 @@
+{
+  "music_disc.trackonezero": {
+    "sounds": [
+      {
+        "name": "records/trackonezero",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tracktwoone": {
+    "sounds": [
+      {
+        "name": "records/tracktwoone",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackthreetwo": {
+    "sounds": [
+      {
+        "name": "records/trackthreetwo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackfourthree": {
+    "sounds": [
+      {
+        "name": "records/trackfourthree",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackfivefour": {
+    "sounds": [
+      {
+        "name": "records/trackfivefour",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tracksixfive": {
+    "sounds": [
+      {
+        "name": "records/tracksixfive",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tracksevensix": {
+    "sounds": [
+      {
+        "name": "records/tracksevensix",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackeightseven": {
+    "sounds": [
+      {
+        "name": "records/trackeightseven",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tracknineeight": {
+    "sounds": [
+      {
+        "name": "records/tracknineeight",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonezeronine": {
+    "sounds": [
+      {
+        "name": "records/trackonezeronine",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackoneoneonezero": {
+    "sounds": [
+      {
+        "name": "records/trackoneoneonezero",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonetwooneone": {
+    "sounds": [
+      {
+        "name": "records/trackonetwooneone",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonethreeonetwo": {
+    "sounds": [
+      {
+        "name": "records/trackonethreeonetwo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonefouronethree": {
+    "sounds": [
+      {
+        "name": "records/trackonefouronethree",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonefouronefour": {
+    "sounds": [
+      {
+        "name": "records/trackonefouronefour",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonefiveonefive": {
+    "sounds": [
+      {
+        "name": "records/trackonefiveonefive",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trackonesixonesix": {
+    "sounds": [
+      {
+        "name": "records/trackonesixonesix",
+        "stream": true
+      }
+    ]
+  }
+}

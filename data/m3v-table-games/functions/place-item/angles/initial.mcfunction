@@ -1,0 +1,2 @@
+execute if data storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.initial.yaw run data modify entity @s Rotation[0] set from storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.initial.yaw
+execute if data storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.initial.pitch run data modify entity @s Rotation[1] set from storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.initial.pitch

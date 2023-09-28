@@ -1,0 +1,1 @@
+#execute if data block ~ ~ ~ Items[{Slot:0b}] run 

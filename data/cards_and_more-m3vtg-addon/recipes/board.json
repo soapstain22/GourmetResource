@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_W",
+        "W_"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:birch_slab"
+        },
+        "W": {
+            "item": "minecraft:dark_oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

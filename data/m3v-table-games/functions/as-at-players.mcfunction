@@ -1,0 +1,1 @@
+execute if entity @s[scores={m3vtg-wfoas=1..}] run function m3v-table-games:wfoas

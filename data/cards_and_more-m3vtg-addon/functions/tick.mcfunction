@@ -1,0 +1,2 @@
+execute as @e[type=item_display,tag=m3vtga-exblock] at @s if entity @p[distance=..6] run function cards_and_more-m3vtg-addon:chips_e/simple
+execute as @e[type=item_display,tag=m3vtga-exblock] at @s run function cards_and_more-m3vtg-addon:chips_e/cart

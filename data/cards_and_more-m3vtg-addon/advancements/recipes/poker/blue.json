@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cards_and_more-m3vtg-addon:poker/blue"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cards_and_more-m3vtg-addon:recipes/poker/blue"
+  }
+}

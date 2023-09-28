@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"translate\":\"m3vtg.card\",\"italic\":false}'},CustomModelData:33005,m3vtg-item:1b,m3vtg-item-data:{item-id:0,roundA:1,mat:\"paper\",contactStep:100,randomCMD:[]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

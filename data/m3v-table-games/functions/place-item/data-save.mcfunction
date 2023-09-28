@@ -1,0 +1,2 @@
+data modify entity @s item.tag.m3vtg-item-data.temp set value {angles:{shift:{yaw:[],pitch:[]}}}
+data modify entity @s item.tag.m3vtg-item-data.temp.angles.shift set from storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.shift

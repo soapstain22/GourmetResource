@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "function": "cards_and_more-m3vtg-addon:iu"
+  }
+}

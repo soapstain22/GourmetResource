@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "ABA",
+        " T "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_dye"
+        },
+        "A": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        },
+        "T": {
+            "item": "minecraft:black_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

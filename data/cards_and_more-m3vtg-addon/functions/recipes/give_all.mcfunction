@@ -1,0 +1,15 @@
+function cards_and_more-m3vtg-addon:recipes/board
+function cards_and_more-m3vtg-addon:recipes/cards
+function cards_and_more-m3vtg-addon:recipes/checkers
+function cards_and_more-m3vtg-addon:recipes/chess
+function cards_and_more-m3vtg-addon:recipes/dominoes
+function cards_and_more-m3vtg-addon:recipes/dice
+function cards_and_more-m3vtg-addon:recipes/poker/w
+function cards_and_more-m3vtg-addon:recipes/poker/r
+function cards_and_more-m3vtg-addon:recipes/poker/blue
+function cards_and_more-m3vtg-addon:recipes/poker/g
+function cards_and_more-m3vtg-addon:recipes/poker/b
+function cards_and_more-m3vtg-addon:recipes/poker/p
+function cards_and_more-m3vtg-addon:recipes/poker/o
+function cards_and_more-m3vtg-addon:recipes/chips_exchanger
+function cards_and_more-m3vtg-addon:recipes/poker/bundles/any

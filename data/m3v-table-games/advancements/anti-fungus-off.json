@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "offhand": {
+              "items": [
+                "minecraft:warped_fungus_on_a_stick"
+              ],
+              "nbt": "{m3vtg-item:1b}"
+            }
+          },
+          "vehicle": {
+            "type": "minecraft:strider"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "m3v-table-games:adv/anti-fungus"
+  }
+}

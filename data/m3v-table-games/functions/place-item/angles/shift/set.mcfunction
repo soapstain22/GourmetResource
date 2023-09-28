@@ -1,0 +1,2 @@
+execute if data storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.shift.set.yaw run function m3v-table-games:place-item/angles/shift/rotate-yaw
+execute if data storage m3vtg:storage PlayerItem.tag.m3vtg-item-data.angles.shift.set.pitch run function m3v-table-games:place-item/angles/shift/rotate-pitch

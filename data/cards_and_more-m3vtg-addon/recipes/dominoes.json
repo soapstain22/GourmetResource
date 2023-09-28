@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "WSB",
+        " L "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:mangrove_log"
+        },
+        "W": {
+            "item": "minecraft:white_dye"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "B": {
+            "item": "minecraft:black_dye"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

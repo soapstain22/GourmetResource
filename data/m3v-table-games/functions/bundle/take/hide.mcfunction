@@ -1,0 +1,2 @@
+data modify entity @s Item.tag.m3vtg-item-data.temp.hidden set from entity @s Item.tag.CustomModelData
+data modify entity @s Item.tag.CustomModelData set from entity @s Item.tag.m3vtg-item-data.hideModel

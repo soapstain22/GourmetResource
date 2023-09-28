@@ -1,0 +1,1 @@
+execute if entity @s[tag=!m3vtg-drop] run function m3v-table-games:field/check-blocks/b

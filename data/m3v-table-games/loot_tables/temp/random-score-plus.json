@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_button",
+          "functions": [
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.max_health",
+                  "name": "",
+                  "amount": {
+                    "min": 0,
+                    "max": {
+                      "type": "minecraft:score",
+                      "target": {
+                        "type": "minecraft:fixed",
+                        "name": "$random"
+                      },
+                      "score": "m3vtg-temp"
+                    }
+                  },
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

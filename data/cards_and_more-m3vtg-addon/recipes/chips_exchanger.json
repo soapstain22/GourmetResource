@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "ACA",
+        " N "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:comparator"
+        },
+        "A": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        },
+        "N": {
+            "item": "minecraft:copper_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

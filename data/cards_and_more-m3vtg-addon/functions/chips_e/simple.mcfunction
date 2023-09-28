@@ -1,0 +1,2 @@
+execute if data block ~ ~ ~ Items[{Slot:12b,tag:{m3vtg-item-data:{item-id:20}}}] run function cards_and_more-m3vtg-addon:chips_e/simple/convert
+execute if data block ~ ~ ~ Items[{Slot:0b,tag:{m3vtg-item-data:{item-id:20}}}] run function cards_and_more-m3vtg-addon:chips_e/simple/move
